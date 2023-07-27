@@ -1,6 +1,5 @@
 # Cryptocurrency Portfolio Manager
 
-![Project Image](project_image.jpg) <!-- Add a screenshot or image illustrating the project -->
 
 Cryptocurrency Portfolio Manager is a web application that allows users to track their cryptocurrency holdings, view portfolio value, and set price alerts for specific cryptocurrencies. The application uses Laravel for the backend API, PHP, JSON, HTML, CSS, and JavaScript for the frontend.
 
